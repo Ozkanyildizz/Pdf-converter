@@ -11,7 +11,7 @@ class App(ctk.CTk):
         
         ctk.set_appearance_mode("dark") 
         ctk.set_default_color_theme("blue")
-        self.title("Pdf Convertor")
+        self.title("Pdf Converter")
         self.minsize(700,500)
         #self.iconbitmap(r"youricon.ico")
         self.state("withdrawn")
